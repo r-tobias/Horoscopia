@@ -14,9 +14,7 @@ https://github.com/r-tobias/fire-group-project
 
 
 ## Description
-The greatest team known alive has come together to create a website that reveals your horoscope using Aztro (a horoscope API)
-
-Our Horoscope Website is designed to tell you your daily horoscope needs. Missed a day? Not to worry as we will have all horoscope readings saved for past (yesterday), present (today), and future (tomorrow). Need to know your crushes horoscope? Do not fret, we have added filtering out specific horoscopes so you can check them all!
+This application is designed to tell you your daily horoscope needs. Missed a day? Not to worry as we will have all horoscope readings saved for past (yesterday), present (today), and future (tomorrow). Need to know your crushes horoscope? Do not fret, we have added filtering out specific horoscopes so you can check them all!
 
 ### Wireframe
 #### Home

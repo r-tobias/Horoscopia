@@ -9,7 +9,7 @@ function AboutUs(){
             <img className="avatar" src={avatar} alt="avatar"/>
         <div className="thisIsUs">
         {/* <h2>About Us: </h2> */}
-        <h1>Rebecca, Charlton, Demmy and Anne</h1>
+        <h1>Anne, Charlton, Demmy,and Rebecca</h1>
         <p>The greatest team known alive has come together to create a website that reveals your horoscope using Aztro and Sandipbgt (horoscope APIs)</p>
         </div>
         <hr className="hr"></hr>

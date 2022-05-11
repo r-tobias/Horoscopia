@@ -1,14 +1,14 @@
 import axios from 'axios'
 
-export const getSigns = async () => {
-    return await axios.get("http://sandipbgt.com/theastrologer/api/sunsigns/").then((response) => response.data)
-  }
+// export const getSigns = async () => {
+//     return await axios.get("http://sandipbgt.com/theastrologer/api/sunsigns/").then((response) => response.data)
+//   }
 
 
 async function fetchData(sign, timeframe){
     const DEFAULT_URL = `https://aztro.sameerkumar.website/?sign=${sign}&day=${timeframe}`
 
-    const BASE_URL= `https://aztro.sameerkumar.website?sign=`
+    // const BASE_URL= `https://aztro.sameerkumar.website?sign=`
 
   
 

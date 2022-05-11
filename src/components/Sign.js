@@ -6,15 +6,15 @@ import { getSigns } from '../services/constants'
 
 function Sign({handleSelectedSign}){
 
-    const [signs, setSigns] = useState([])  
+    // const [signs, setSigns] = useState([])  
    
-    useEffect(()=>{
-        getSigns().then(setSigns)
-    },[])
+    // useEffect(()=>{
+    //     getSigns().then(setSigns)
+    // },[])
 
     return(
         <div className='sign-container'>
-            {signs.map((sign) =>(
+            {[ "aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces" ].map((sign) =>(
                 <button className={sign} to='/time' key={sign} onClick={()=> handleSelectedSign(sign)}>{sign}<br/>
                 </button>      
             ))}         
