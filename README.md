@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+## :crystal_ball:Horoscope React App:crystal_ball:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Demo:
 
-## Available Scripts
+## Group Repository:
+https://github.com/r-tobias/fire-group-project
 
-In the project directory, you can run:
 
-### `npm start`
+### Members:
+- Rebecca Tobias
+- Charlton Rosero
+- Demmy Rodriguez
+- Anne Imomoh
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Description
+The greatest team known alive has come together to create a website that reveals your horoscope using Aztro (a horoscope API)
 
-### `npm test`
+Our Horoscope Website is designed to tell you your daily horoscope needs. Missed a day? Not to worry as we will have all horoscope readings saved for past (yesterday), present (today), and future (tomorrow). Need to know your crushes horoscope? Do not fret, we have added filtering out specific horoscopes so you can check them all!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Wireframe
+#### Home
+![wireframe1](https://user-images.githubusercontent.com/97997227/163504767-cbe90ac2-5032-47e5-8607-bbf46c456f74.png)
+#### Zodiac page
+![wireframe2](https://user-images.githubusercontent.com/97997227/163504769-2fdb05f1-b053-4fa3-b3b8-a619790653ee.png)
+#### History page
+![wireframe3](https://user-images.githubusercontent.com/97997227/163504774-1bf3d4f1-426f-414a-9ed3-3dbfe9d2d1bb.png)
+#### About Us
+![wireframe4](https://user-images.githubusercontent.com/97997227/163504780-341d1925-b990-4871-ba53-5322c088e5e1.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Features
+ - Uses API call to list all signs
+ - Do readings for yesterday, today, and tomorrow
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+>#### Upcoming Features
+> - Birthday analyzer
+> - Sign matchmaker
+ 
 
-### `npm run eject`
+ 
+## Dependencies
+- axios
+- react/react router
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Component Hierarchy
+![Components](https://user-images.githubusercontent.com/97997227/163507585-ee24fb5b-1bf7-4601-a40e-6b191f437736.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## API
+![image](https://user-images.githubusercontent.com/97997227/163455679-4e212b17-0fe4-44dd-9542-a153d51362b9.png)
+### Aztro
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Aztro REST API allows developers to access and integrate the functionality of aztro with other applications. The API retrieves daily horoscopes for yesterday, today, and tomorrow.
+- https://aztro.readthedocs.io/en/latest/
 
-## Learn More
+- http://sandipbgt.com/theastrologer/api/sunsigns/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## CSS
+CSS Resources 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://medium.com/level-up-web/100-css-resources-for-web-designers-and-developers-c060bed7a362
 
-### Code Splitting
+https://alligator.io/css/css-resources/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contact us
 
-### Analyzing the Bundle Size
+![rebecca](https://user-images.githubusercontent.com/97997227/163508765-b5f0cb8f-05e5-43a5-b147-7e8aa51bfc7b.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+https://github.com/r-tobias
 
-### Making a Progressive Web App
+![Charlton](https://user-images.githubusercontent.com/97997227/163508391-c75cab12-13ba-47aa-8380-90998992646d.jpg)  
+https://github.com/Charlton-Rosero
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![demmy](https://user-images.githubusercontent.com/97997227/163508482-553bed38-ead8-4e25-9a02-84e1414976b3.jpg)
 
-### Advanced Configuration
+https://github.com/DemmyRodriguez
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![anne](https://user-images.githubusercontent.com/97997227/163510788-19cc7a91-3d8c-4335-a07f-6cd89524d2cf.jpg)
 
-### Deployment
+https://github.com/omokhele
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
