@@ -17,19 +17,18 @@ https://github.com/r-tobias/fire-group-project
 - Demmy Rodriguez
 - Anne Imomoh
 
-### Wireframe
-#### Home
+## Wireframe
+### Home
 ![wireframe1](https://user-images.githubusercontent.com/97997227/163504767-cbe90ac2-5032-47e5-8607-bbf46c456f74.png)
-#### Zodiac page
+### Zodiac page
 ![wireframe2](https://user-images.githubusercontent.com/97997227/163504769-2fdb05f1-b053-4fa3-b3b8-a619790653ee.png)
-#### History page
+### History page
 ![wireframe3](https://user-images.githubusercontent.com/97997227/163504774-1bf3d4f1-426f-414a-9ed3-3dbfe9d2d1bb.png)
-#### About Us
+### About Us
 ![wireframe4](https://user-images.githubusercontent.com/97997227/163504780-341d1925-b990-4871-ba53-5322c088e5e1.png)
 
 
-
-### Features
+## Features
  - Light / Dark mode feature
  - Utilizes React router
  - Retrieves data from multiple API's
