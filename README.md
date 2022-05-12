@@ -7,12 +7,11 @@ https://rt-horoscopia-app.netlify.app
 This website is designed to tell users their daily horoscope needs. Missed a day? Not to worry as we will have all horoscope readings saved for past (yesterday), present (today), and future (tomorrow). Need to know your crushes horoscope? Do not fret, we have added filtering out specific horoscopes so you can check them all!
 
 
-* DISCLAIMER: Adding more design and features as an extension of a group project 
 
 ## Group Repository:
+### DISCLAIMER: Adding more design and features as an extension of a group project: 
 https://github.com/r-tobias/fire-group-project
-
-### Contributors in Group Repository:
+#### Contributors in Group Repository:
 - Rebecca Tobias
 - Charlton Rosero 
 - Demmy Rodriguez
