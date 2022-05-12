@@ -6,12 +6,6 @@ import { getSigns } from '../services/constants'
 
 function Sign({handleSelectedSign}){
 
-    // const [signs, setSigns] = useState([])  
-   
-    // useEffect(()=>{
-    //     getSigns().then(setSigns)
-    // },[])
-
     return(
         <div className='sign-container'>
             {[ "aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces" ].map((sign) =>(

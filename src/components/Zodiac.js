@@ -15,7 +15,7 @@ function Zodiac(){
     return(
         <div className='zodiac-container'>
             <div className='sign-container'>
-            <h1>Choose a Zodiac</h1>
+            <h1 className='sign-title'>Choose a Zodiac</h1>
             {/* <p>Sign Selected: {selectedSign}</p> */}
             <Sign handleSelectedSign={setSelectedSign}/>
             </div>

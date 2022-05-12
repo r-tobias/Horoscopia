@@ -1,20 +1,19 @@
 ## :crystal_ball:Horoscope React App:crystal_ball:
 
 ## Live Demo:
+https://rt-horoscopia-app.netlify.app
+
+## Description
+This website is designed to tell users their daily horoscope needs. Missed a day? Not to worry as we will have all horoscope readings saved for past (yesterday), present (today), and future (tomorrow). Need to know your crushes horoscope? Do not fret, we have added filtering out specific horoscopes so you can check them all!
 
 ## Group Repository:
 https://github.com/r-tobias/fire-group-project
 
-
 ### Members:
 - Rebecca Tobias
-- Charlton Rosero
+- Charlton Rosero 
 - Demmy Rodriguez
 - Anne Imomoh
-
-
-## Description
-This application is designed to tell you your daily horoscope needs. Missed a day? Not to worry as we will have all horoscope readings saved for past (yesterday), present (today), and future (tomorrow). Need to know your crushes horoscope? Do not fret, we have added filtering out specific horoscopes so you can check them all!
 
 ### Wireframe
 #### Home
@@ -29,14 +28,14 @@ This application is designed to tell you your daily horoscope needs. Missed a da
 
 
 ### Features
- - Uses API call to list all signs
- - Do readings for yesterday, today, and tomorrow
+ - Light / Dark mode feature
+ - Utilizes React router
+ - Retrieves data from multiple API's
 
 >#### Upcoming Features
 > - Birthday analyzer
 > - Sign matchmaker
  
-
  
 ## Dependencies
 - axios
@@ -62,22 +61,6 @@ https://medium.com/level-up-web/100-css-resources-for-web-designers-and-develope
 
 https://alligator.io/css/css-resources/
 
-## Contact us
-
-![rebecca](https://user-images.githubusercontent.com/97997227/163508765-b5f0cb8f-05e5-43a5-b147-7e8aa51bfc7b.jpg)
-
-https://github.com/r-tobias
-
-![Charlton](https://user-images.githubusercontent.com/97997227/163508391-c75cab12-13ba-47aa-8380-90998992646d.jpg)  
-https://github.com/Charlton-Rosero
-
-![demmy](https://user-images.githubusercontent.com/97997227/163508482-553bed38-ead8-4e25-9a02-84e1414976b3.jpg)
-
-https://github.com/DemmyRodriguez
-
-![anne](https://user-images.githubusercontent.com/97997227/163510788-19cc7a91-3d8c-4335-a07f-6cd89524d2cf.jpg)
-
-https://github.com/omokhele
 
 
 
