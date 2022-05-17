@@ -23,7 +23,7 @@
 }
 
 .clickHere{
-  text-decoration: none;
+  /* text-decoration: none; */
   color: black;
 }
 
@@ -34,6 +34,7 @@
 
 .clickHere:hover{
   color: white;
+  text-decoration: none;
 }
 
 .dark .clickHere {
@@ -42,7 +43,7 @@
 .dark .clickHere:hover {
   color: white;
   font-weight: bold;
-  text-decoration: underline;
+
 }
 
 /* <------------------ End of CSS for Home Page ------------------> */
