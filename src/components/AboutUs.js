@@ -8,10 +8,12 @@ function AboutUs(){
         <div className="aboutUs">
             <img className="avatar" src={avatar} alt="avatar"/>
         <div className="thisIsUs">
-        {/* <h2>About Us: </h2> */}
-        <h1>Anne, Charlton, Demmy, and Rebecca</h1>
-        <p></p>
-        {/* <a href='https://github.com/r-tobias/fire-group-project'>View group repository</a> */}
+        <h1>About The Team:</h1>
+        <p>Rebecca Tobias - <a className = "clickHere" href='https://github.com/r-tobias'>Github</a></p>
+        <p>Charlton Rosero - <a className = "clickHere" href='https://github.com/Charlton-Rosero'>Github</a></p>
+        <p>Demmy Rodriguez - <a className = "clickHere" href='https://github.com/DemmyRodriguez'>Github</a></p>
+        <p>Anne Imomoh - <a className = "clickHere" href='https://github.com/omokhele'>Github</a></p>
+            
         </div>
         </div>
         {/* <hr></hr> */}

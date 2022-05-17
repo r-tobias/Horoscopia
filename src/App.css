@@ -402,14 +402,16 @@ hr{
 }
 
 .aboutUs{
-  text-align: center;
+  padding-left: 30px;
   margin: 10px;
 }  
   
 .thisIsUs{
-  padding-top: 50px;
+  padding-top: 30px;
   height: 80px;
   margin: 0px;
+
+
 }
 
 .avatar{
