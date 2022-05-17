@@ -3,11 +3,8 @@ import Sign from './Sign'
 import TimeFrame from './TimeFrame'
 import DailyHoroscope from './DailyHoroscope'
 
-
-
 function Zodiac(){
 
-    
     const [selectedSign, setSelectedSign] = useState(null)
     const [timeframe, setTimeFrame] = useState(null)
     return(

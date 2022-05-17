@@ -6,9 +6,6 @@ export default function DailyHoroscope({sign, timeframe}){
 
 const [horoscope, setHoroscope] = useState('');
 
-
-
-
 useEffect(()=>{
    const reading = async() =>{
     const zodiac = await fetchData(sign, timeframe)

@@ -1,10 +1,6 @@
 import logo from '../images/logo.png'
 import { NavLink } from 'react-router-dom'
 
-
-
-
-
 function Home () {
     return(
         <div className="home">
