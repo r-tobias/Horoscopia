@@ -278,17 +278,33 @@ button.scorpio{
 button.sagittarius{
   background-image: url('./images/Sagittarius.png');
 }
+button.sagittarius:hover {
+  margin-top: -6px;
+  z-index: 1;
+}
+
 
 button.capricorn{
   background-image: url('./images/Capricorn.png');
+}
+button.capricorn:hover {
+  margin-top: -6px;
+  z-index: 1; 
 }
 
 button.aquarius{
   background-image: url('./images/Aquarius.png');
 }
+button.aquarius:hover {
+  margin-top: -6px;
+  z-index: 1; 
+}
 
 button.pisces{
   background-image: url('./images/Pisces.png');
+}
+button.pisces:hover {
+  margin-top: -6px;
 }
 
 /* <------------------ End of CSS for Zodiac Sign Buttons ------------------> */
