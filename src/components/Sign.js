@@ -1,8 +1,3 @@
-// import TimeFrame from "./TimeFrame"
-import { useState, useEffect} from 'react'
-// import {NavLink, Route, Routes} from 'react-router-dom'
-import { getSigns } from '../services/constants'
-
 
 function Sign({handleSelectedSign}){
 

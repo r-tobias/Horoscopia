@@ -40,13 +40,12 @@ function App() {
           <NavLink to="/"> Home </NavLink>
           <NavLink to="/zodiac"> Zodiac </NavLink>
           <NavLink to="/history"> History </NavLink>
-          <NavLink to="/about"> About Us </NavLink>
+          <NavLink to="/about"> About </NavLink>
           <button className = 'toggleDarkModeButton' onClick={() => setDarkMode(!darkMode)}></button> 
       </nav>    
 
       <Routes>
         <Route path="/" element={<Home />} />
-        {/* <Route path="/" element={<Footer />} /> */}
         <Route path="/about" element={<AboutUs />} />
         <Route path="/zodiac" element={<Zodiac />} />
         <Route path="/time" element={<TimeFrame />} />

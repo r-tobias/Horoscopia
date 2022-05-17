@@ -11,7 +11,6 @@ function History(){
             <h1>Horoscopia: noun</h1>
             <hr></hr>
             <h3>/ˈhôrəˌskōpia/</h3>
-            {/* <h6>noun: horoscope</h6> */}
             <p>A concatenation of the words Horoscope and Utopia.</p>
             <p>Take a peek into a forecast of your future. Know how your starts align. Arm yourself with knowledge.</p>
             <p>For... <em><b>“To know thyself is the beginning of wisdom.”</b></em></p>
